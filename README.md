@@ -1,0 +1,2 @@
+# WordSearch
+This word search application was one of my first java GUI projects which implements 2D arrays. It randomly generates letters onto a grid. The user is able to input a word into a textfield and the program checks if the word exists on the grid, exists on the grid and in the wordlist text file, or does not exist at all. If you want to try this word search program, download the files and run wordsearch.java.
